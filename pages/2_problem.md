@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="02 課題" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="02 課題" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:200px; z-index:10;">
@@ -13,7 +13,7 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1500px; z-index:10;">
-    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">インディーズの現場では、<br>チケットが「身内」にしか売れない。</div>
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">小規模公演の現場では、<br>チケットが「身内」にしか売れない。</div>
   </div>
 
   <!-- リード -->

@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="09 5カ年計画" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="11 5カ年計画" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:70px; width:500px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">09 — 5-YEAR PLAN</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">11 — 5-YEAR PLAN</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:110px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
 
@@ -22,7 +22,7 @@ transition: slide-left
   </div>
 
   <!-- 損益推移グラフ -->
-  <div style="position:relative; width:100%; height:300px; background:#F3F4F6; border-radius:10px; display:flex; align-items:center; justify-content:center;"><p style="color:#9CA3AF;">[ Chart Visualization ]</p></div>
+  <FiveYearPlanChart style="position:absolute; left:120px; top:320px; width:1080px; height:420px; z-index:5;" />
 
   <!-- 右：サマリーKPI -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:1240px; top:320px; width:560px; height:420px; background:#0B1F3A; border-radius:10px; z-index:1;"></div>

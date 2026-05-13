@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="05 ニーズ検証" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="04 ニーズ検証" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:400px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">05 — VALIDATION</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">04 — VALIDATION</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:130px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
 
@@ -18,7 +18,7 @@ transition: slide-left
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:380px; width:1680px; z-index:10;">
-    <div style="font-size:24px; line-height:1.7; color:#6B7280; font-weight:500;">インディーズ出演者を対象とした初期ヒアリング／アンケートの結果。本質的な抵抗感は低く、機会損失への課題感が強い。</div>
+    <div style="font-size:24px; line-height:1.7; color:#6B7280; font-weight:500;">若手・インディーズ出演者を対象とした初期ヒアリング／アンケートの結果。本質的な抵抗感は低く、機会損失への課題感が強い。</div>
   </div>
 
   <!-- 3カード -->

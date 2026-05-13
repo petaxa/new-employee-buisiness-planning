@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="03 解決策" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="03 解決策" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:300px; z-index:10;">
@@ -13,12 +13,12 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1680px; z-index:10;">
-    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">インディーズを応援する、<br><span style="color:#E5006E;">チケット販売プラットフォーム</span>。</div>
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">若手・インディーズ出演者を応援する、<br><span style="color:#E5006E;">チケット販売プラットフォーム</span>。</div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:390px; width:1680px; z-index:10;">
-    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">出演者は売れ残りそうなチケットを出品、応援したい観客はその場で購入。当日は会場で手渡し。</div>
+    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">出演者や小規模主催者は売れ残りそうなチケットを出品、応援したい観客はその場で購入。当日は会場で手渡し。</div>
   </div>
 
   <!-- フロー図 -->
@@ -31,10 +31,9 @@ transition: slide-left
     <div style="font-size:36px; font-weight:900; color:#0B1F3A; line-height:1.3;">出演者が<br>チケットを出品</div>
     <div style="font-size:18px; font-weight:500; color:#374151; line-height:1.7; margin-top:24px;">公演情報・枚数・価格を登録。値引き設定も可能。</div>
   </div>
-  <!-- アイコン代替: 番号バッジ -->
-  <div data-object="true" data-object-type="shape" style="position:absolute; left:500px; top:580px; width:60px; height:60px; border-radius:50%; background:#E5006E; z-index:5;"></div>
-  <div data-object="true" data-object-type="textbox" style="position:absolute; left:500px; top:590px; width:60px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:28px; font-weight:900; color:#ffffff; text-align:center;">♪</div>
+  <!-- アイコン: チケット -->
+  <div data-object="true" data-object-type="shape" style="position:absolute; left:500px; top:580px; width:60px; height:60px; border-radius:50%; background:#E5006E; z-index:5; display:flex; align-items:center; justify-content:center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" style="position:absolute; left:14px; top:14px;"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 5v2m0 4v2m0 4v2M5 5h14a2 2 0 0 1 2 2v3a2 2 0 0 0 0 4v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-3a2 2 0 0 0 0-4V7a2 2 0 0 1 2-2"/></svg>
   </div>
 
   <!-- 矢印1 -->
@@ -47,7 +46,7 @@ transition: slide-left
   </div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:760px; top:620px; width:410px; z-index:10;">
     <div style="font-size:36px; font-weight:900; color:#0B1F3A; line-height:1.3;">購入者が<br>その場で購入</div>
-    <div style="font-size:18px; font-weight:500; color:#374151; line-height:1.7; margin-top:24px;">「推し活したい」「新しい音楽に出会いたい」観客がカジュアルに購入。</div>
+    <div style="font-size:18px; font-weight:500; color:#374151; line-height:1.7; margin-top:24px;">「応援したい」「新しい表現や現場に出会いたい」観客がカジュアルに購入。</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:1100px; top:580px; width:60px; height:60px; border-radius:50%; background:#E5006E; z-index:5;"></div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1100px; top:590px; width:60px; z-index:10;">

@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="06 市場規模" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="07 市場規模" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:400px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">06 — MARKET</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">07 — MARKET</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:130px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
 
@@ -33,7 +33,7 @@ transition: slide-left
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:320px; top:660px; width:200px; z-index:10;">
     <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#ffffff; font-weight:700; text-align:center;">SOM</div>
     <div style="font-size:34px; font-weight:900; color:#ffffff; text-align:center; margin-top:8px;">初年度</div>
-    <div style="font-family:'Inter',sans-serif; font-size:22px; font-weight:700; color:#ffffff; text-align:center; margin-top:4px;">≈ 4.5億円</div>
+    <div style="font-family:'Inter',sans-serif; font-size:22px; font-weight:700; color:#ffffff; text-align:center; margin-top:4px;">≈ 0.45億円</div>
   </div>
 
   <!-- ラベル：SAM (外側に引き出し線風) -->

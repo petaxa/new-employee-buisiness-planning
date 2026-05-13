@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="07 収益モデル" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="08 収益モデル" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:500px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">07 — REVENUE MODEL</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">08 — REVENUE MODEL</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:130px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
 
@@ -70,7 +70,7 @@ transition: slide-left
   </div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1010px; top:865px; width:760px; z-index:10;">
     <div style="font-size:24px; font-weight:900; color:#ffffff; line-height:1.3;">隣接領域への拡張（ファン課金 / 物販 / マッチング）</div>
-    <div style="font-size:18px; font-weight:500; color:#D1D5DB; line-height:1.6; margin-top:8px;">アーティスト×ファンの接点で、複数の収益チャネルを積み上げる。</div>
+    <div style="font-size:18px; font-weight:500; color:#D1D5DB; line-height:1.6; margin-top:8px;">出演者×ファンの接点で、複数の収益チャネルを積み上げる。</div>
   </div>
 
   <!-- フッター注記 -->

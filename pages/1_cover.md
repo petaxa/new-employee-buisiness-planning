@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="01 表紙" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="01 表紙" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- 背景の幾何 -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px; background: radial-gradient(1100px 700px at 1500px 200px, rgba(229,0,110,0.08), transparent 60%), radial-gradient(900px 600px at 200px 950px, rgba(11,31,58,0.05), transparent 60%); z-index:1;"></div>
@@ -28,7 +28,7 @@ transition: slide-left
 
   <!-- サブコピー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:620px; width:1300px; z-index:10;">
-    <div style="font-size:34px; font-weight:500; line-height:1.6; color:#374151;">インディーズ出演者の <span style="color:#0B1F3A; font-weight:700;">“売れ残りチケット”</span> を、<br>応援したい観客につなぐプラットフォーム。</div>
+    <div style="font-size:34px; font-weight:500; line-height:1.6; color:#374151;">若手・インディーズ出演者の <span style="color:#0B1F3A; font-weight:700;">“売れ残りチケット”</span> を、<br>応援したい観客につなぐプラットフォーム。</div>
   </div>
 
   <!-- 下部メタ情報 -->
@@ -36,7 +36,7 @@ transition: slide-left
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:930px; width:400px; z-index:10;">
     <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#6B7280; font-weight:600;">CATEGORY</div>
-    <div style="font-size:22px; font-weight:700; color:#0B1F3A; margin-top:8px;">ライブ / チケット流通</div>
+    <div style="font-size:22px; font-weight:700; color:#0B1F3A; margin-top:8px;">小規模公演 / チケット流通</div>
   </div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:680px; top:930px; width:400px; z-index:10;">

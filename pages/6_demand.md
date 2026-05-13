@@ -1,24 +1,24 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="04 買い手" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="06 需要" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:400px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">04 — DEMAND</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">06 — DEMAND</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:130px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1680px; z-index:10;">
-    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">なぜ、買い手が集まるのか。</div>
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">買い手の需要は、なぜ伸びるのか。</div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:280px; width:1680px; z-index:10;">
-    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">「推し活」を中心とした“応援消費”が伸長。新しい体験への需要が、未知の出演者にも届きやすい時代になっている。</div>
+    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">「推し活」を中心とした“応援消費”が伸長。新しい体験への需要が、未知の表現者にも届きやすい時代になっている。</div>
   </div>
 
   <!-- 左：大きな統計 -->
@@ -47,10 +47,10 @@ transition: slide-left
   </div>
 
   <!-- シンプルなバーチャート(若年層 vs 35+) -->
-  <div style="position:relative; width:100%; height:300px; background:#F3F4F6; border-radius:10px; display:flex; align-items:center; justify-content:center;"><p style="color:#9CA3AF;">[ Chart Visualization ]</p></div>
+  <DemandExpansionChart style="position:absolute; left:1020px; top:570px; width:740px; height:220px; z-index:5;" />
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1020px; top:840px; width:740px; z-index:10;">
-    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7;">「知らないアーティストでも、良い体験に出会いたい」という需要を捕捉。可処分所得のある層へ広がる余地。</div>
+    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7;">「知らない表現者でも、良い体験に出会いたい」という需要を捕捉。可処分所得のある層へ広がる余地。</div>
   </div>
 
   <!-- フッター注記 -->

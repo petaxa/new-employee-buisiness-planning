@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="12 クロージング" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="13 クロージング" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- 背景幾何 -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px; background: radial-gradient(1200px 800px at 1700px 200px, rgba(229,0,110,0.10), transparent 60%); z-index:1;"></div>
@@ -12,7 +12,7 @@ transition: slide-left
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:130px; width:600px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">12 — CLOSING</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">13 — CLOSING</div>
   </div>
 
   <!-- メインメッセージ -->
@@ -23,7 +23,7 @@ transition: slide-left
   <!-- 3つのインパクト -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:170px; top:740px; width:520px; height:180px; background:#F8FAFC; border-radius:10px; z-index:1;"></div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:210px; top:770px; width:440px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:12px; letter-spacing:3px; color:#E5006E; font-weight:700;">FOR ARTISTS</div>
+    <div style="font-family:'Inter',sans-serif; font-size:12px; letter-spacing:3px; color:#E5006E; font-weight:700;">FOR PERFORMERS</div>
     <div style="font-size:24px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:8px;">ノルマからの解放</div>
     <div style="font-size:16px; color:#6B7280; line-height:1.6; margin-top:6px;">表現に集中できる環境を、出演者へ。</div>
   </div>
@@ -31,7 +31,7 @@ transition: slide-left
   <div data-object="true" data-object-type="shape" style="position:absolute; left:710px; top:740px; width:520px; height:180px; background:#F8FAFC; border-radius:10px; z-index:1;"></div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:750px; top:770px; width:440px; z-index:10;">
     <div style="font-family:'Inter',sans-serif; font-size:12px; letter-spacing:3px; color:#E5006E; font-weight:700;">FOR FANS</div>
-    <div style="font-size:24px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:8px;">新しい音楽との出会い</div>
+    <div style="font-size:24px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:8px;">新しい表現との出会い</div>
     <div style="font-size:16px; color:#6B7280; line-height:1.6; margin-top:6px;">カジュアルに「応援」を始められる場を。</div>
   </div>
 
@@ -51,7 +51,7 @@ transition: slide-left
   </div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1370px; top:1005px; width:400px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:14px; color:#9CA3AF; text-align:right; letter-spacing:2px;">INDIE TICKET PLATFORM / 2026</div>
+    <div style="font-family:'Inter',sans-serif; font-size:14px; color:#9CA3AF; text-align:right; letter-spacing:2px;">SMALL PERFORMANCE TICKET PLATFORM / 2026</div>
   </div>
 
 </div>

@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: none
 transition: slide-left
 ---
 
-<div class="slide-container" data-screen-label="10 将来展望" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+<div class="slide-container" data-screen-label="12 将来展望" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
   <!-- ヘッダー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:400px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">10 — OUTLOOK</div>
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">12 — OUTLOOK</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:130px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
 
@@ -29,29 +29,29 @@ transition: slide-left
     <div style="font-size:34px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:14px;">推し活市場の<br>継続的な拡大</div>
   </div>
   <!-- 簡易グラフ -->
-  <div style="position:relative; width:100%; height:300px; background:#F3F4F6; border-radius:10px; display:flex; align-items:center; justify-content:center;"><p style="color:#9CA3AF;">[ Chart Visualization ]</p></div>
+  <OutlookTrendChart variant="oshi" style="position:absolute; left:160px; top:650px; width:460px; height:150px; z-index:5;" />
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:840px; width:460px; z-index:10;">
     <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">2024年の推し活人口は約1,400万人、前年比＋約250万人。今後も「応援消費」は伸長余地が大きい。</div>
   </div>
 
-  <!-- 自立型音楽家 -->
+  <!-- 自立型表現者 -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:690px; top:420px; width:540px; height:540px; background:#F8FAFC; border-radius:10px; border:1px solid #E5E7EB; z-index:1;"></div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:730px; top:460px; width:460px; z-index:10;">
     <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#0B1F3A; font-weight:700;">TREND 02</div>
-    <div style="font-size:34px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:14px;">自立型・個人型<br>音楽家の増加</div>
+    <div style="font-size:34px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:14px;">自立型・個人型<br>表現者の増加</div>
   </div>
-  <div style="position:relative; width:100%; height:300px; background:#F3F4F6; border-radius:10px; display:flex; align-items:center; justify-content:center;"><p style="color:#9CA3AF;">[ Chart Visualization ]</p></div>
+  <OutlookTrendChart variant="creator" style="position:absolute; left:730px; top:650px; width:460px; height:150px; z-index:5;" />
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:730px; top:840px; width:460px; z-index:10;">
-    <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">レーベル非依存で活動するアーティストが増加傾向。自分でファンを集める手段を求めている。</div>
+    <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">事務所や大手主催に依存せず活動する出演者が増加傾向。自分で観客を集める手段を求めている。</div>
   </div>
 
-  <!-- ライブ市場 -->
+  <!-- 小規模公演市場 -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:1260px; top:420px; width:540px; height:540px; background:#0B1F3A; border-radius:10px; z-index:1;"></div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1300px; top:460px; width:460px; z-index:10;">
     <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#FFD2E4; font-weight:700;">TREND 03</div>
-    <div style="font-size:34px; font-weight:900; color:#ffffff; line-height:1.3; margin-top:14px;">舞台・ライブ<br>エンタメ市場の拡大</div>
+    <div style="font-size:34px; font-weight:900; color:#ffffff; line-height:1.3; margin-top:14px;">舞台・公演<br>エンタメ市場の拡大</div>
   </div>
-  <div style="position:relative; width:100%; height:300px; background:#F3F4F6; border-radius:10px; display:flex; align-items:center; justify-content:center;"><p style="color:#9CA3AF;">[ Chart Visualization ]</p></div>
+  <OutlookTrendChart variant="performance" style="position:absolute; left:1300px; top:650px; width:460px; height:150px; z-index:5;" />
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1300px; top:840px; width:460px; z-index:10;">
     <div style="font-size:18px; line-height:1.7; color:#D1D5DB; font-weight:500;">ACPC「舞台・ライブエンタテインメント産業 横断調査」等でも、市場規模は回復・拡大基調。</div>
   </div>
