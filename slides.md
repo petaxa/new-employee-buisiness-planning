@@ -50,29 +50,25 @@ src: ./pages/7_market.md
 ---
 
 ---
-src: ./pages/8_buisiness_model.md
+src: ./pages/8_revenue_model.md
 ---
 
 ---
-src: ./pages/9_revenue_model.md
+src: ./pages/9_competition.md
 ---
 
 ---
-src: ./pages/10_competition.md
+src: ./pages/10_giggs_comparison.md
 ---
 
 ---
-src: ./pages/11_giggs_comparison.md
+src: ./pages/11_five_year_plan.md
 ---
 
 ---
-src: ./pages/12_five_year_plan.md
+src: ./pages/12_outlook.md
 ---
 
 ---
-src: ./pages/13_outlook.md
----
-
----
-src: ./pages/14_closing.md
+src: ./pages/13_closing.md
 ---
