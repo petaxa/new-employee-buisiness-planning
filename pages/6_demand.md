@@ -13,12 +13,12 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1680px; z-index:10;">
-    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">買い手の需要は、なぜ伸びるのか。</div>
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">買い手の需要は、なぜ伸びるのか</div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:280px; width:1680px; z-index:10;">
-    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">「推し活」を中心とした“応援消費”が伸長。新しい体験への需要が、未知の表現者にも届きやすい時代になっている。</div>
+    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">「推し活」を中心とした“応援消費”が伸長新しい体験への需要が、未知の表現者にも届きやすい時代になっている</div>
   </div>
 
   <!-- 左：大きな統計 -->
@@ -35,7 +35,7 @@ transition: slide-left
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:820px; width:740px; z-index:10;">
     <div style="font-size:24px; font-weight:700; color:#0B1F3A; line-height:1.6;">前年比 <span style="color:#E5006E;">＋約250万人</span> の増加</div>
-    <div style="font-size:14px; color:#9CA3AF; margin-top:14px; line-height:1.7;">出典：野村證券 WEALTHSTYLE「推し活市場」／ CDG「推し活総研」を参照。</div>
+    <div style="font-size:14px; color:#9CA3AF; margin-top:14px; line-height:1.7;">出典：野村證券 WEALTHSTYLE「推し活市場」／ CDG「推し活総研」を参照</div>
   </div>
 
   <!-- 右：35歳以上の伸びしろ -->
@@ -50,12 +50,12 @@ transition: slide-left
   <DemandExpansionChart style="position:absolute; left:1020px; top:570px; width:740px; height:220px; z-index:5;" />
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1020px; top:840px; width:740px; z-index:10;">
-    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7;">「知らない表現者でも、良い体験に出会いたい」という需要を捕捉。可処分所得のある層へ広がる余地。</div>
+    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7;">「知らない表現者でも、良い体験に出会いたい」という需要を捕捉可処分所得のある層へ広がる余地</div>
   </div>
 
   <!-- フッター注記 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1010px; width:1680px; z-index:10;">
-    <div style="font-size:14px; color:#9CA3AF;">※ 35歳以上への普及は「途上段階」と捉え、断定ではなく伸長余地として表現。出典：野村證券／CDG 等の二次情報。</div>
+    <div style="font-size:14px; color:#9CA3AF;">※ 35歳以上への普及は「途上段階」と捉え、断定ではなく伸長余地として表現出典：野村證券／CDG 等の二次情報</div>
   </div>
 
 </div>

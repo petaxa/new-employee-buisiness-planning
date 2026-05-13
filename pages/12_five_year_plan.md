@@ -13,12 +13,12 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:150px; width:1680px; z-index:10;">
-    <div style="font-size:54px; font-weight:900; line-height:1.2; color:#0B1F3A;">5年で <span style="color:#E5006E;">GMV 27億円</span>、<span style="color:#E5006E;">3年目で黒字化</span>。</div>
+    <div style="font-size:54px; font-weight:900; line-height:1.2; color:#0B1F3A;">5年で <span style="color:#E5006E;">GMV 27億円</span>、<span style="color:#E5006E;">3年目で黒字化</span></div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:250px; width:1680px; z-index:10;">
-    <div style="font-size:20px; line-height:1.6; color:#6B7280; font-weight:500;">事業計画ベース／シェア率は売れ残り市場（45億円）に対する想定値。販管費は概ね固定で見積。</div>
+    <div style="font-size:20px; line-height:1.6; color:#6B7280; font-weight:500;">事業計画ベース／シェア率は売れ残り市場（45億円）に対する想定値販管費は概ね固定で見積</div>
   </div>
 
   <!-- 損益推移グラフ -->
@@ -114,7 +114,7 @@ transition: slide-left
 
   <!-- フッター注記 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1050px; width:1680px; z-index:10;">
-    <div style="font-size:12px; color:#9CA3AF;">※ 当社事業計画ベース（仮説）。単位：百万円（M）。SAM 45億円に対するシェア率前提。今後の市況・採用計画により再見直し。</div>
+    <div style="font-size:12px; color:#9CA3AF;">※ 当社事業計画ベース（仮説）単位：百万円（M）SAM 45億円に対するシェア率前提今後の市況・採用計画により再見直し</div>
   </div>
 
 </div>

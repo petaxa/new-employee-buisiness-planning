@@ -18,7 +18,7 @@ transition: slide-left
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:290px; width:1680px; z-index:10;">
-    <div style="font-size:24px; line-height:1.7; color:#6B7280; font-weight:500;">小規模会場のチケット流通全体を最終ターゲットとし、まずは売れ残り市場を起点に獲得する。</div>
+    <div style="font-size:24px; line-height:1.7; color:#6B7280; font-weight:500;">小規模会場のチケット流通全体を最終ターゲットとし、まずは売れ残り市場を起点に獲得する</div>
   </div>
 
   <!-- 同心円ビジュアル -->
@@ -69,12 +69,12 @@ transition: slide-left
   </div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1340px; top:880px; width:420px; z-index:10;">
-    <div style="font-size:14px; color:#9CA3AF; line-height:1.7;">※ 593億・45億は当社試算。前提条件次第で振れ幅あり。今後の精緻化が必要。</div>
+    <div style="font-size:14px; color:#9CA3AF; line-height:1.7;">※ 593億・45億は当社試算前提条件次第で振れ幅あり今後の精緻化が必要</div>
   </div>
 
   <!-- フッター注記 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1020px; width:1680px; z-index:10;">
-    <div style="font-size:14px; color:#9CA3AF;">出典：ぴあ総研／ACPC「舞台・ライブエンタテインメント産業 横断調査」を参照のうえ、小規模会場領域を当社推計。</div>
+    <div style="font-size:14px; color:#9CA3AF;">出典：ぴあ総研／ACPC「舞台・ライブエンタテインメント産業 横断調査」を参照のうえ、小規模会場領域を当社推計</div>
   </div>
 
 </div>

@@ -13,12 +13,12 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1680px; z-index:10;">
-    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">既存プレイヤーが拾えていない、<br>「小規模公演 × 売れ残り」を取りに行く。</div>
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">既存プレイヤーが拾えていない、<br>「小規模公演 × 売れ残り」を取りに行く</div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:380px; width:1680px; z-index:10;">
-    <div style="font-size:22px; line-height:1.7; color:#6B7280; font-weight:500;">競合は大きく二つ。teket / LivePocket / Peatix は電子チケット販売プラットフォーム、GIGGS は音楽特化のインディーズ情報ポータル。</div>
+    <div style="font-size:22px; line-height:1.7; color:#6B7280; font-weight:500;">競合は大きく二つteket / LivePocket / Peatix は電子チケット販売プラットフォーム、GIGGS は音楽特化のインディーズ情報ポータル</div>
   </div>
 
   <!-- 比較表 -->
@@ -87,7 +87,7 @@ transition: slide-left
 
   <!-- フッター注記 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1030px; width:1680px; z-index:10;">
-    <div style="font-size:13px; color:#9CA3AF;">参考：teket.jp ／ livepocket.jp ／ peatix.com ／ GIGGS 公開情報。記号評価は公開情報に基づく当社判断。</div>
+    <div style="font-size:13px; color:#9CA3AF;">参考：teket.jp ／ livepocket.jp ／ peatix.com ／ GIGGS 公開情報記号評価は公開情報に基づく当社判断</div>
   </div>
 
 </div>

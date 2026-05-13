@@ -13,12 +13,12 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1680px; z-index:10;">
-    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">GIGGSとは、<br><span style="color:#E5006E;">似て非なるポジション</span>を取る。</div>
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">GIGGSとは、<br><span style="color:#E5006E;">似て非なるポジション</span>を取る</div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:360px; width:1680px; z-index:10;">
-    <div style="font-size:24px; line-height:1.7; color:#6B7280; font-weight:500;">GIGGSは音楽に特化したインディーズ情報ポータルで、主には情報サイト。チケット販売機能もあるが、当社は掲載イベントすべてを販売対象にする。</div>
+    <div style="font-size:24px; line-height:1.7; color:#6B7280; font-weight:500;">GIGGSは音楽に特化したインディーズ情報ポータルで、主には情報サイトチケット販売機能もあるが、当社は掲載イベントすべてを販売対象にする</div>
   </div>
 
   <!-- 比較見出し -->
@@ -57,7 +57,7 @@ transition: slide-left
   <!-- フッター強調 -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:950px; width:1680px; height:70px; background:#0B1F3A; border-radius:8px; z-index:1;"></div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:970px; width:1600px; z-index:10;">
-    <div style="font-size:22px; font-weight:700; color:#ffffff;"><span style="color:#E5006E;">差分 ▸</span>　「情報掲載」ではなく、会場に依存しない出演者起点の販売導線をつくる。</div>
+    <div style="font-size:22px; font-weight:700; color:#ffffff;"><span style="color:#E5006E;">差分 ▸</span>　「情報掲載」ではなく、会場に依存しない出演者起点の販売導線をつくる</div>
   </div>
 
 </div>
