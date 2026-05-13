@@ -13,12 +13,12 @@ transition: slide-left
 
   <!-- タイトル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:150px; width:1680px; z-index:10;">
-    <div style="font-size:54px; font-weight:900; line-height:1.2; color:#0B1F3A;">5年で <span style="color:#E5006E;">GMV 20.9億円</span>、<span style="color:#E5006E;">4年目で累計黒字化</span></div>
+    <div style="font-size:54px; font-weight:900; line-height:1.2; color:#0B1F3A;">5年で <span style="color:#E5006E;">GMV 20.9億円</span>、<span style="color:#E5006E;">4年目で単年黒字化</span></div>
   </div>
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:250px; width:1680px; z-index:10;">
-    <div style="font-size:20px; line-height:1.6; color:#6B7280; font-weight:500;">事業計画ベース／余っているチケット市場（51.1億円）へのシェアとユーザー数を起点に、4年目で累計損益がプラスに転じる</div>
+    <div style="font-size:20px; line-height:1.6; color:#6B7280; font-weight:500;">事業計画ベース／余っているチケット市場（51.1億円）へのシェアとユーザー数を起点に、4年目で単年黒字化、5年目で累計損益がプラスに転じる</div>
   </div>
 
   <!-- 損益推移グラフ -->
@@ -43,7 +43,7 @@ transition: slide-left
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1280px; top:640px; width:480px; z-index:10;">
     <div style="font-size:18px; font-weight:500; color:#D1D5DB;">累計損益</div>
-    <div style="font-family:'Inter',sans-serif; font-size:48px; font-weight:900; color:#E5006E; line-height:1.1; margin-top:4px;">1.25<span style="font-size:22px;">億円</span></div>
+    <div style="font-family:'Inter',sans-serif; font-size:48px; font-weight:900; color:#E5006E; line-height:1.1; margin-top:4px;">1.22<span style="font-size:22px;">億円</span></div>
   </div>
 
   <!-- 詳細テーブル -->
@@ -105,7 +105,7 @@ transition: slide-left
           <td style="text-align:right; padding:6px 14px;">20.3M</td>
           <td style="text-align:right; padding:6px 14px;">30.7M</td>
           <td style="text-align:right; padding:6px 14px;">37.8M</td>
-          <td style="text-align:right; padding:6px 14px;">54.9M</td>
+          <td style="text-align:right; padding:6px 14px;">57.6M</td>
           <td style="text-align:right; padding:6px 14px;">78.5M</td>
         </tr>
         <tr style="border-bottom:1px solid #F3F4F6; background:#FDF2F8;">
@@ -113,7 +113,7 @@ transition: slide-left
           <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−24.1M</td>
           <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−18.8M</td>
           <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−2.7M</td>
-          <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+46.9M</td>
+          <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+44.2M</td>
           <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+123.8M</td>
         </tr>
         <tr style="background:#0B1F3A;">
@@ -121,8 +121,8 @@ transition: slide-left
           <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−24.1M</td>
           <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−42.9M</td>
           <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−45.6M</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:900; color:#FFD2E4;">+1.3M</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:900; color:#FFD2E4;">+125.1M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−1.4M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:900; color:#FFD2E4;">+122.4M</td>
         </tr>
       </tbody>
     </table>

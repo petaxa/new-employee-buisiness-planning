@@ -50,7 +50,7 @@
         stroke-linejoin="round"
       />
       <polyline
-        points="150,302.2 360,297.3 570,282.6 780,237.0 990,166.4"
+        points="150,302.2 360,297.3 570,282.6 780,239.4 990,166.4"
         fill="none"
         stroke="#0B1F3A"
         stroke-width="3"
@@ -69,7 +69,7 @@
         <circle cx="150" cy="302.2" r="5.5" />
         <circle cx="360" cy="297.3" r="5.5" />
         <circle cx="570" cy="282.6" r="5.5" />
-        <circle cx="780" cy="237.0" r="5.5" />
+        <circle cx="780" cy="239.4" r="5.5" />
         <circle cx="990" cy="166.4" r="5.5" />
       </g>
 
