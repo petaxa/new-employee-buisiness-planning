@@ -23,12 +23,12 @@ transition: slide-left
 
   <!-- 1対1比較 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:480px; width:1680px; z-index:10;">
-    <table style="width:1680px; border-collapse:collapse; font-size:21px; color:#0B1F3A; border:1px solid #E5E7EB;">
+    <table style="width:1680px; border-collapse:collapse; font-size:22px; color:#0B1F3A; border:1px solid #E5E7EB;">
       <thead>
         <tr>
-          <th style="width:300px; text-align:left; padding:22px 28px; background:#F8FAFC; color:#0B1F3A; font-weight:900; border-bottom:2px solid #0B1F3A;">比較観点</th>
-          <th style="width:690px; text-align:left; padding:22px 32px; background:#E5006E; color:#ffffff; font-weight:900; border-bottom:2px solid #0B1F3A;">knoq</th>
-          <th style="width:690px; text-align:left; padding:22px 32px; background:#0B1F3A; color:#ffffff; font-weight:900; border-bottom:2px solid #0B1F3A;">GIGGS</th>
+          <th style="width:300px; text-align:left; padding:26px 28px; background:#F8FAFC; color:#0B1F3A; font-weight:900; border-bottom:2px solid #0B1F3A;">比較観点</th>
+          <th style="width:690px; text-align:left; padding:22px 32px; background:#ffffff; color:#E5006E; font-family:'Inter',sans-serif; font-size:44px; line-height:1; font-weight:900; letter-spacing:0.5px; border-top:8px solid #E5006E; border-bottom:2px solid #0B1F3A;">knoq</th>
+          <th style="width:690px; text-align:left; padding:22px 32px; background:#ffffff; color:#0B1F3A; font-family:'Inter',sans-serif; font-size:44px; line-height:1; font-weight:900; letter-spacing:0.5px; border-top:8px solid #0B1F3A; border-bottom:2px solid #0B1F3A;">GIGGS</th>
         </tr>
       </thead>
       <tbody>

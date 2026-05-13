@@ -9,31 +9,20 @@ defineProps<{
     <svg v-if="variant === 'oshi'" viewBox="0 0 460 150" role="img">
       <rect width="460" height="150" fill="#ffffff" />
       <text x="24" y="30" class="dark-title">推し活人口</text>
-      <text x="350" y="30" class="accent-title">+250万人</text>
-      <line x1="46" y1="120" x2="420" y2="120" stroke="#F3F4F6" stroke-width="1.5" />
-      <rect x="104" y="57" width="70" height="63" rx="8" fill="#FBCFE8" />
-      <rect x="286" y="43" width="70" height="77" rx="8" fill="#E5006E" />
-      <text x="139" y="48" class="muted-value" text-anchor="middle">1,150万人</text>
-      <text x="321" y="34" class="accent-value" text-anchor="middle">1,400万人</text>
-      <text x="139" y="137" class="axis" text-anchor="middle">2023</text>
-      <text x="321" y="137" class="axis" text-anchor="middle">2024</text>
+      <line x1="46" y1="118" x2="420" y2="118" stroke="#F3F4F6" stroke-width="1.5" />
+      <rect x="86" y="69" width="58" height="49" rx="8" fill="#FCE7F3" />
+      <rect x="202" y="57" width="58" height="61" rx="8" fill="#FBCFE8" />
+      <rect x="318" y="32" width="58" height="86" rx="8" fill="#E5006E" />
     </svg>
 
     <svg v-else-if="variant === 'creator'" viewBox="0 0 460 150" role="img">
       <rect width="460" height="150" fill="#ffffff" />
-      <text x="24" y="30" class="dark-title">個人型活動者</text>
-      <text x="316" y="30" class="small-note">直販・自集客へ</text>
+      <text x="24" y="30" class="dark-title">個人活動の音楽家数</text>
       <line x1="46" y1="118" x2="420" y2="118" stroke="#E5E7EB" stroke-width="1.5" />
-      <path
-        d="M62 112 C132 104, 172 90, 222 78 S330 54, 398 38"
-        fill="none"
-        stroke="#0B1F3A"
-        stroke-width="3"
-        stroke-linecap="round"
-      />
-      <circle cx="398" cy="38" r="6.5" fill="#E5006E" />
-      <text x="62" y="137" class="axis" text-anchor="middle">NOW</text>
-      <text x="398" y="137" class="axis" text-anchor="middle">NEXT</text>
+      <rect x="78" y="82" width="46" height="36" rx="7" fill="#CBD5E1" />
+      <rect x="158" y="73" width="46" height="45" rx="7" fill="#A7B4C8" />
+      <rect x="238" y="55" width="46" height="63" rx="7" fill="#697B95" />
+      <rect x="318" y="35" width="46" height="83" rx="7" fill="#0B1F3A" />
     </svg>
 
     <svg v-else viewBox="0 0 460 150" role="img">

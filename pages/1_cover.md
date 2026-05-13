@@ -5,16 +5,8 @@ transition: slide-left
 
 <div class="slide-container" data-screen-label="01 表紙" style="position:absolute; left:0; top:0; width:1920px; height:1082px; transform:scale(0.5104166667); transform-origin:top left; overflow:hidden; background:#ffffff;">
 
-  <!-- 背景の幾何 -->
-  <div data-object="true" data-object-type="shape" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px; background: radial-gradient(1100px 700px at 1500px 200px, rgba(229,0,110,0.08), transparent 60%), radial-gradient(900px 600px at 200px 950px, rgba(11,31,58,0.05), transparent 60%); z-index:1;"></div>
-
   <!-- 左の縦ライン -->
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:120px; width:6px; height:840px; background:#E5006E; z-index:1;"></div>
-
-  <!-- 装飾円 -->
-  <div data-object="true" data-object-type="shape" style="position:absolute; left:1480px; top:120px; width:320px; height:320px; border-radius:50%; border:2px solid #E5006E; opacity:0.35; z-index:1;"></div>
-  <div data-object="true" data-object-type="shape" style="position:absolute; left:1600px; top:240px; width:200px; height:200px; border-radius:50%; background:#0B1F3A; z-index:1;"></div>
-  <div data-object="true" data-object-type="shape" style="position:absolute; left:1620px; top:260px; width:160px; height:160px; border-radius:50%; background:#E5006E; opacity:0.85; z-index:1;"></div>
 
   <!-- ラベル -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:160px; width:600px; z-index:10;">
@@ -22,13 +14,16 @@ transition: slide-left
   </div>
 
   <!-- メインキャッチ -->
-  <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:260px; width:1500px; z-index:10;">
-    <div style="font-size:120px; font-weight:900; line-height:1.15; letter-spacing:-2px; color:#0B1F3A;">チケットノルマで<br><span style="color:#E5006E;">苦しむ人</span>を救う</div>
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:250px; top:340px; width:1500px; z-index:10;">
+    <div style="font-size:100px; font-weight:900; line-height:1.15; letter-spacing:-2px; color:#0B1F3A;">チケットノルマで<span style="color:#E5006E;">苦しむ人</span>を救う</div>
   </div>
 
   <!-- サブコピー -->
-  <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:610px; width:1300px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:140px; font-weight:900; line-height:1; letter-spacing:0; color:#0B1F3A;">knoq</div>
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:240px; top:500px; width:1600px; z-index:10;">
+    <div style="display:inline-flex; align-items:center; font-family:'Inter',sans-serif; font-size:190px; font-weight:600; line-height:1; letter-spacing:0; color:#0B1F3A;">
+      <span>knoq</span>
+      <img data-object="true" data-object-type="image" :src="'/icon.png'" style="width:350px; object-fit:contain; flex:0 0 auto;" />
+    </div>
   </div>
 
   <!-- 下部メタ情報 -->

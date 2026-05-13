@@ -31,7 +31,7 @@ transition: slide-left
   <!-- 簡易グラフ -->
   <OutlookTrendChart variant="oshi" style="position:absolute; left:160px; top:650px; width:460px; height:150px; z-index:5;" />
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:840px; width:460px; z-index:10;">
-    <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">2024年の推し活人口は約1,400万人、前年比＋約250万人今後も「応援消費」は伸長余地が大きい</div>
+    <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">直近調査でも推し活人口は大きく伸長<br>「応援消費」は今後も広がる余地が大きい</div>
   </div>
 
   <!-- 自立型表現者 -->
@@ -42,7 +42,7 @@ transition: slide-left
   </div>
   <OutlookTrendChart variant="creator" style="position:absolute; left:730px; top:650px; width:460px; height:150px; z-index:5;" />
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:730px; top:840px; width:460px; z-index:10;">
-    <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">事務所や大手主催に依存せず活動する出演者が増加傾向自分で観客を集める手段を求めている</div>
+    <div style="font-size:18px; line-height:1.7; color:#374151; font-weight:500;">国勢調査ベースで、個人活動の音楽家数は増加傾向<br>直販・自集客の手段を求める層が広がる</div>
   </div>
 
   <!-- 小規模公演市場 -->
@@ -58,7 +58,7 @@ transition: slide-left
 
   <!-- フッター注記 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1000px; width:1680px; z-index:10;">
-    <div style="font-size:14px; color:#9CA3AF; line-height:1.7;">出典：野村證券／CDG（推し活）、ACPC「舞台・ライブエンタテインメント産業 横断調査 2024」グラフは概念表現を含む</div>
+    <div style="font-size:14px; color:#9CA3AF; line-height:1.7;">出典：推し活総研「推し活実態アンケート調査」、総務省統計局 e-Stat「国勢調査：職業（小分類）×従業上の地位（音楽家・雇人のない業主）」、ACPC「舞台・ライブエンタテインメント産業 横断調査 2024」 ※グラフは概念表現を含む</div>
   </div>
 
 </div>

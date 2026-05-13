@@ -22,6 +22,9 @@ transition: slide-left
 comark: true
 # duration of the presentation
 duration: 35min
+fonts:
+  sans: LINE Seed JP
+  serif: LINE Seed JP
 src: ./pages/1_cover.md
 ---
 

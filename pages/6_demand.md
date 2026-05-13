@@ -25,16 +25,25 @@ transition: slide-left
   <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:420px; width:820px; height:520px; background:#FDF2F8; border-radius:10px; z-index:1;"></div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:460px; width:740px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#E5006E; font-weight:700;">2024 / JAPAN</div>
+    <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#E5006E; font-weight:700;">LATEST / JAPAN</div>
     <div style="font-size:30px; font-weight:700; color:#0B1F3A; line-height:1.4; margin-top:14px;">推し活人口</div>
   </div>
 
-  <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:600px; width:740px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:200px; font-weight:900; color:#E5006E; line-height:0.95; letter-spacing:-6px;">1,900<span style="font-size:64px; color:#0B1F3A; font-weight:700; letter-spacing:0;">万人</span></div>
+  <div data-object="true" data-object-type="shape" style="position:absolute; left:528px; top:585px; width:1px; height:190px; background:#F9A8D4; z-index:2;"></div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:585px; width:350px; z-index:10;">
+    <div style="font-size:22px; font-weight:800; color:#0B1F3A; line-height:1.3;">総人口</div>
+    <div style="font-family:'Inter',sans-serif; font-size:90px; font-weight:900; color:#E5006E; line-height:0.95; letter-spacing:-3px; margin-top:22px;">1,900<span style="font-size:30px; color:#0B1F3A; font-weight:800; letter-spacing:0;">万人</span></div>
+  </div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:570px; top:585px; width:330px; z-index:10;">
+    <div style="font-size:22px; font-weight:800; color:#0B1F3A; line-height:1.3;">増加数</div>
+    <div style="font-family:'Inter',sans-serif; font-size:90px; font-weight:900; color:#0B1F3A; line-height:0.95; letter-spacing:-3px; margin-top:22px;">+556<span style="font-size:30px; color:#E5006E; font-weight:800; letter-spacing:0;">万人</span></div>
+    <div style="font-size:18px; font-weight:700; color:#6B7280; line-height:1.4; margin-top:20px;">(前年比)</div>
   </div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:820px; width:740px; z-index:10;">
-    <div style="font-size:24px; font-weight:700; color:#0B1F3A; line-height:1.6;">前年比 <span style="color:#E5006E;">＋約約556万人</span> の増加</div>
+    <div style="font-size:22px; font-weight:700; color:#0B1F3A; line-height:1.5;">推し活人口の大きさと伸びが、応援消費の拡大を後押し</div>
     <div style="font-size:14px; color:#9CA3AF; margin-top:14px; line-height:1.7;">出典：野村證券 WEALTHSTYLE「推し活市場」／ CDG「推し活総研」を参照</div>
   </div>
 
