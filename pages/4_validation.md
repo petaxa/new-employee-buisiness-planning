@@ -43,7 +43,7 @@ transition: slide-left
   </div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:730px; top:610px; width:460px; z-index:10;">
     <div style="font-family:'Inter',sans-serif; font-size:88px; font-weight:900; color:#E5006E; line-height:1; letter-spacing:-2px;">1〜5<span style="font-size:32px; color:#0B1F3A; font-weight:700;">枚</span></div>
-    <div style="font-size:22px; font-weight:700; color:#0B1F3A; line-height:1.5; margin-top:18px;">毎公演で<br>売れ残りが発生</div>
+    <div style="font-size:22px; font-weight:700; color:#0B1F3A; line-height:1.5; margin-top:18px;">出演者1人あたり<br>売れ残りが発生</div>
   </div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:730px; top:840px; width:460px; z-index:10;">
     <div style="font-size:18px; font-weight:500; color:#374151; line-height:1.6;">小規模会場では、出演者あたり数枚の未消化チケットが恒常的に存在</div>

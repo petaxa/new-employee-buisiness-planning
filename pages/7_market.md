@@ -38,10 +38,10 @@ transition: slide-left
 
   <!-- ラベル：SAM (外側に引き出し線風) -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:740px; top:540px; width:520px; z-index:10;">
-    <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#E5006E; font-weight:700;">SAM ／ 当社が狙う中核市場</div>
+    <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#E5006E; font-weight:700;">SAM ／ knoqが狙う中核市場</div>
     <div style="font-size:36px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:10px;">売れ残りチケット市場</div>
     <div style="font-family:'Inter',sans-serif; font-size:72px; font-weight:900; color:#E5006E; line-height:1; margin-top:14px;">45<span style="font-size:32px; color:#0B1F3A;">億円</span></div>
-    <div style="font-size:16px; color:#6B7280; margin-top:10px; line-height:1.6;">小規模会場における未消化チケット規模（当社試算）</div>
+    <div style="font-size:16px; color:#6B7280; margin-top:10px; line-height:1.6;">小規模会場における未消化チケット規模（knoq試算）</div>
   </div>
 
   <!-- ラベル：TAM -->
@@ -49,7 +49,7 @@ transition: slide-left
     <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#0B1F3A; font-weight:700;">TAM ／ 将来到達市場</div>
     <div style="font-size:30px; font-weight:900; color:#0B1F3A; line-height:1.3; margin-top:10px;">小規模会場のチケット総売上</div>
     <div style="font-family:'Inter',sans-serif; font-size:60px; font-weight:900; color:#0B1F3A; line-height:1; margin-top:10px;">593<span style="font-size:28px;">億円</span></div>
-    <div style="font-size:16px; color:#6B7280; margin-top:10px; line-height:1.6;">小規模会場の席数ベースで試算（当社試算）</div>
+    <div style="font-size:16px; color:#6B7280; margin-top:10px; line-height:1.6;">小規模会場の席数ベースで試算（knoq試算）</div>
   </div>
 
   <!-- 右カラム：算定ロジック -->
@@ -69,12 +69,12 @@ transition: slide-left
   </div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1340px; top:880px; width:420px; z-index:10;">
-    <div style="font-size:14px; color:#9CA3AF; line-height:1.7;">※ 593億・45億は当社試算前提条件次第で振れ幅あり今後の精緻化が必要</div>
+    <div style="font-size:14px; color:#9CA3AF; line-height:1.7;">※ 593億・45億はknoq試算前提条件次第で振れ幅あり今後の精緻化が必要</div>
   </div>
 
   <!-- フッター注記 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1020px; width:1680px; z-index:10;">
-    <div style="font-size:14px; color:#9CA3AF;">出典：ぴあ総研／ACPC「舞台・ライブエンタテインメント産業 横断調査」を参照のうえ、小規模会場領域を当社推計</div>
+    <div style="font-size:14px; color:#9CA3AF;">出典：ぴあ総研／ACPC「舞台・ライブエンタテインメント産業 横断調査」を参照のうえ、小規模会場領域をknoq推計</div>
   </div>
 
 </div>

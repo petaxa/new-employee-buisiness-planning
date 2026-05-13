@@ -28,7 +28,7 @@ transition: slide-left
 
   <!-- サブコピー -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:620px; width:1300px; z-index:10;">
-    <div style="font-size:34px; font-weight:500; line-height:1.6; color:#374151;">若手・インディーズ出演者の <span style="color:#0B1F3A; font-weight:700;">“売れ残りチケット”</span> を、<br>応援したい観客につなぐプラットフォーム</div>
+    <div style="font-size:34px; font-weight:500; line-height:1.6; color:#374151;"><span style="color:#0B1F3A; font-weight:800;">knoq</span> は、<span style="color:#0B1F3A; font-weight:700;">“売れ残りチケット”</span> を<br>応援したい観客につなぐ</div>
   </div>
 
   <!-- 下部メタ情報 -->

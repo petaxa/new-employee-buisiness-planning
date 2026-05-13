@@ -18,7 +18,7 @@ transition: slide-left
 
   <!-- リード -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:290px; width:1680px; z-index:10;">
-    <div style="font-size:22px; line-height:1.7; color:#6B7280; font-weight:500;">ファン消費の構造変化と、表現者の働き方の変化が、当社事業の前提条件を後押ししている</div>
+    <div style="font-size:22px; line-height:1.7; color:#6B7280; font-weight:500;">ファン消費の構造変化と、表現者の働き方の変化が、knoq事業の前提条件を後押ししている</div>
   </div>
 
   <!-- 3カラム -->

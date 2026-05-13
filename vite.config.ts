@@ -4,6 +4,8 @@ export default defineConfig({
   staged: {
     "*": "vp check --fix",
   },
-  fmt: {},
+  fmt: {
+    ignorePatterns: ["slides.md"],
+  },
   lint: { options: { typeAware: true, typeCheck: true } },
 });

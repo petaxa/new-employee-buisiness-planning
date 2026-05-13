@@ -39,7 +39,7 @@ transition: slide-left
   </div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:730px; top:680px; width:470px; z-index:10;">
     <div style="font-size:32px; font-weight:900; color:#0B1F3A; line-height:1.3;">売れ残り＝空席</div>
-    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7; margin-top:18px;">毎公演1〜5枚程度が売れ残り、会場は空席のまま観客にも出演者にも機会損失</div>
+    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7; margin-top:18px;">出演者1人あたり1〜5枚程度が売れ残り、会場は空席のまま観客にも出演者にも機会損失</div>
   </div>
 
   <!-- カード3 -->

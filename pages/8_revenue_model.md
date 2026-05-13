@@ -69,8 +69,8 @@ transition: slide-left
     <div style="font-family:'Inter',sans-serif; font-size:42px; font-weight:900; color:#E5006E; line-height:1;">P3</div>
   </div>
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1010px; top:865px; width:760px; z-index:10;">
-    <div style="font-size:24px; font-weight:900; color:#ffffff; line-height:1.3;">隣接領域への拡張（ファン課金 / 物販 / マッチング）</div>
-    <div style="font-size:18px; font-weight:500; color:#D1D5DB; line-height:1.6; margin-top:8px;">出演者×ファンの接点で、複数の収益チャネルを積み上げる</div>
+    <div style="font-size:24px; font-weight:900; color:#ffffff; line-height:1.3;">事務所へのアーティスト紹介へ拡張</div>
+    <div style="font-size:18px; font-weight:500; color:#D1D5DB; line-height:1.6; margin-top:8px;">販売実績やファン反応をもとに、成長アーティストを事務所へ紹介する</div>
   </div>
 
   <!-- フッター注記 -->
