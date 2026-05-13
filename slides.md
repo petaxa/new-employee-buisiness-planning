@@ -26,45 +26,49 @@ src: ./pages/1_cover.md
 ---
 
 ---
-src: ./pages/2_problem.md
----
+
+## src: ./pages/2_problem.md
 
 ---
-src: ./pages/3_solution.md
----
+
+## src: ./pages/3_solution.md
 
 ---
-src: ./pages/4_demand.md
----
+
+## src: ./pages/4_validation.md
 
 ---
-src: ./pages/5_validation.md
----
+
+## src: ./pages/5_buyers.md
 
 ---
-src: ./pages/6_market.md
----
+
+## src: ./pages/6_demand.md
 
 ---
-src: ./pages/7_revenue_model.md
----
+
+## src: ./pages/7_market.md
 
 ---
-src: ./pages/8_competition.md
----
+
+## src: ./pages/8_revenue_model.md
 
 ---
-src: ./pages/9_five_year_plan.md
----
+
+## src: ./pages/9_competition.md
 
 ---
-src: ./pages/10_outlook.md
----
+
+## src: ./pages/10_giggs_comparison.md
 
 ---
-src: ./pages/11_why_now.md
----
+
+## src: ./pages/11_five_year_plan.md
 
 ---
-src: ./pages/12_closing.md
+
+## src: ./pages/12_outlook.md
+
 ---
+
+## src: ./pages/13_closing.md
