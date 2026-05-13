@@ -27,8 +27,8 @@ transition: slide-left
   </div>
 
   <!-- サブコピー -->
-  <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:620px; width:1300px; z-index:10;">
-    <div style="font-size:34px; font-weight:500; line-height:1.6; color:#374151;"><span style="color:#0B1F3A; font-weight:800;">knoq</span> は、<span style="color:#0B1F3A; font-weight:700;">“売れ残りチケット”</span> を<br>応援したい観客につなぐ</div>
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:170px; top:610px; width:1300px; z-index:10;">
+    <div style="font-family:'Inter',sans-serif; font-size:140px; font-weight:900; line-height:1; letter-spacing:0; color:#0B1F3A;">knoq</div>
   </div>
 
   <!-- 下部メタ情報 -->

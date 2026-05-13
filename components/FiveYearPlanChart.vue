@@ -4,7 +4,7 @@
       <rect width="1080" height="420" fill="#ffffff" />
       <text x="40" y="42" class="title">売上・営業利益の推移</text>
       <text x="40" y="68" class="sub">
-        単位：百万円。4年目で黒字化、5年目に営業利益 126.3M へ。
+        単位：百万円。4年目で黒字化、5年目に営業利益 123.8M へ。
       </text>
 
       <circle cx="730" cy="34" r="7" fill="#E5006E" />
@@ -50,7 +50,7 @@
         stroke-linejoin="round"
       />
       <polyline
-        points="150,302.1 360,296.9 570,282.0 780,234.9 990,164.1"
+        points="150,302.2 360,297.3 570,282.6 780,237.0 990,166.4"
         fill="none"
         stroke="#0B1F3A"
         stroke-width="3"
@@ -66,11 +66,11 @@
         <circle cx="990" cy="88.4" r="5.5" />
       </g>
       <g fill="#ffffff" stroke="#0B1F3A" stroke-width="2.75">
-        <circle cx="150" cy="302.1" r="5.5" />
-        <circle cx="360" cy="296.9" r="5.5" />
-        <circle cx="570" cy="282.0" r="5.5" />
-        <circle cx="780" cy="234.9" r="5.5" />
-        <circle cx="990" cy="164.1" r="5.5" />
+        <circle cx="150" cy="302.2" r="5.5" />
+        <circle cx="360" cy="297.3" r="5.5" />
+        <circle cx="570" cy="282.6" r="5.5" />
+        <circle cx="780" cy="237.0" r="5.5" />
+        <circle cx="990" cy="166.4" r="5.5" />
       </g>
 
       <g class="x-axis" text-anchor="middle">
@@ -82,8 +82,8 @@
       </g>
 
       <text x="990" y="72" class="sales-label" text-anchor="middle">208.7M</text>
-      <text x="990" y="150" class="profit-label" text-anchor="middle">126.3M</text>
-      <text x="150" y="323" class="negative-label" text-anchor="middle">-24.0M</text>
+      <text x="990" y="152" class="profit-label" text-anchor="middle">123.8M</text>
+      <text x="150" y="323" class="negative-label" text-anchor="middle">-24.1M</text>
     </svg>
   </div>
 </template>
