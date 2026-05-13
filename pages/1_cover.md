@@ -22,7 +22,7 @@ transition: slide-left
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:240px; top:500px; width:1600px; z-index:10;">
     <div style="display:inline-flex; align-items:center; font-family:'Inter',sans-serif; font-size:190px; font-weight:600; line-height:1; letter-spacing:0; color:#0B1F3A;">
       <span>knoq</span>
-      <img data-object="true" data-object-type="image" :src="'/icon.png'" style="width:350px; object-fit:contain; flex:0 0 auto;" />
+      <img data-object="true" data-object-type="image" :src="'./icon.png'" style="width:350px; object-fit:contain; flex:0 0 auto;" />
     </div>
   </div>
 

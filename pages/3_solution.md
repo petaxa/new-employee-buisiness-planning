@@ -66,7 +66,7 @@ transition: slide-left
     <div style="font-size:18px; font-weight:500; color:#D1D5DB; line-height:1.7; margin-top:24px;">公演当日、会場で出演者から購入者へ直接の体験が、次のファン化を生む</div>
   </div>
   <div data-object="true" data-object-type="shape" style="position:absolute; left:1700px; top:580px; width:60px; height:60px; border-radius:50%; background:#E5006E; z-index:5;"></div>
-  <img data-object="true" data-object-type="image" :src="'/hand-over.svg'" style="position:absolute; left:1714px; top:594px; width:32px; height:32px; object-fit:contain; filter:brightness(0) invert(1); z-index:10;" />
+  <img data-object="true" data-object-type="image" :src="'./hand-over.svg'" style="position:absolute; left:1714px; top:594px; width:32px; height:32px; object-fit:contain; filter:brightness(0) invert(1); z-index:10;" />
 
   <!-- フッター強調 -->
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:990px; width:1680px; z-index:10;">
