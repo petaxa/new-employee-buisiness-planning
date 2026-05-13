@@ -1,0 +1,61 @@
+---
+layout: default
+transition: slide-left
+---
+
+<div class="slide-container" data-screen-label="04 買い手" style="position:relative; width:1920px; height:1080px; overflow:hidden; background:#ffffff;">
+
+  <!-- ヘッダー -->
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:90px; width:400px; z-index:10;">
+    <div style="font-family:'Inter',sans-serif; font-size:16px; letter-spacing:4px; color:#E5006E; font-weight:700;">04 — DEMAND</div>
+  </div>
+  <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:130px; width:60px; height:4px; background:#E5006E; z-index:1;"></div>
+
+  <!-- タイトル -->
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:170px; width:1680px; z-index:10;">
+    <div style="font-size:68px; font-weight:900; line-height:1.2; color:#0B1F3A;">なぜ、買い手が集まるのか。</div>
+  </div>
+
+  <!-- リード -->
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:280px; width:1680px; z-index:10;">
+    <div style="font-size:26px; line-height:1.7; color:#6B7280; font-weight:500;">「推し活」を中心とした“応援消費”が伸長。新しい体験への需要が、未知の出演者にも届きやすい時代になっている。</div>
+  </div>
+
+  <!-- 左：大きな統計 -->
+  <div data-object="true" data-object-type="shape" style="position:absolute; left:120px; top:420px; width:820px; height:520px; background:#FDF2F8; border-radius:10px; z-index:1;"></div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:460px; width:740px; z-index:10;">
+    <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#E5006E; font-weight:700;">2024 / JAPAN</div>
+    <div style="font-size:30px; font-weight:700; color:#0B1F3A; line-height:1.4; margin-top:14px;">推し活人口</div>
+  </div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:600px; width:740px; z-index:10;">
+    <div style="font-family:'Inter',sans-serif; font-size:200px; font-weight:900; color:#E5006E; line-height:0.95; letter-spacing:-6px;">1,400<span style="font-size:64px; color:#0B1F3A; font-weight:700; letter-spacing:0;">万人</span></div>
+  </div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:160px; top:820px; width:740px; z-index:10;">
+    <div style="font-size:24px; font-weight:700; color:#0B1F3A; line-height:1.6;">前年比 <span style="color:#E5006E;">＋約250万人</span> の増加</div>
+    <div style="font-size:14px; color:#9CA3AF; margin-top:14px; line-height:1.7;">出典：野村證券 WEALTHSTYLE「推し活市場」／ CDG「推し活総研」を参照。</div>
+  </div>
+
+  <!-- 右：35歳以上の伸びしろ -->
+  <div data-object="true" data-object-type="shape" style="position:absolute; left:980px; top:420px; width:820px; height:520px; background:#F8FAFC; border-radius:10px; border:1px solid #E5E7EB; z-index:1;"></div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:1020px; top:460px; width:740px; z-index:10;">
+    <div style="font-family:'Inter',sans-serif; font-size:14px; letter-spacing:3px; color:#0B1F3A; font-weight:700;">AGE EXPANSION</div>
+    <div style="font-size:30px; font-weight:700; color:#0B1F3A; line-height:1.4; margin-top:14px;">35歳以上への伸びしろ</div>
+  </div>
+
+  <!-- シンプルなバーチャート(若年層 vs 35+) -->
+  <div style="position:relative; width:100%; height:300px; background:#F3F4F6; border-radius:10px; display:flex; align-items:center; justify-content:center;"><p style="color:#9CA3AF;">[ Chart Visualization ]</p></div>
+
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:1020px; top:840px; width:740px; z-index:10;">
+    <div style="font-size:20px; font-weight:500; color:#374151; line-height:1.7;">「知らないアーティストでも、良い体験に出会いたい」という需要を捕捉。可処分所得のある層へ広がる余地。</div>
+  </div>
+
+  <!-- フッター注記 -->
+  <div data-object="true" data-object-type="textbox" style="position:absolute; left:120px; top:1010px; width:1680px; z-index:10;">
+    <div style="font-size:14px; color:#9CA3AF;">※ 35歳以上への普及は「途上段階」と捉え、断定ではなく伸長余地として表現。出典：野村證券／CDG 等の二次情報。</div>
+  </div>
+
+</div>
