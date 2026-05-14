@@ -1,18 +1,24 @@
 <script setup lang="ts">
 defineProps<{
-  variant: "oshi" | "creator" | "performance";
+  variant: "entertainment" | "creator";
 }>();
 </script>
 
 <template>
   <div class="trend-chart" :class="variant" :aria-label="`${variant} trend chart`">
-    <svg v-if="variant === 'oshi'" viewBox="0 0 460 150" role="img">
+    <svg v-if="variant === 'entertainment'" viewBox="0 0 460 150" role="img">
       <rect width="460" height="150" fill="#ffffff" />
-      <text x="24" y="30" class="dark-title">推し活人口</text>
+      <text x="24" y="30" class="dark-title">ライブ・エンタメ市場</text>
       <line x1="46" y1="118" x2="420" y2="118" stroke="#F3F4F6" stroke-width="1.5" />
-      <rect x="86" y="69" width="58" height="49" rx="8" fill="#FCE7F3" />
-      <rect x="202" y="57" width="58" height="61" rx="8" fill="#FBCFE8" />
-      <rect x="318" y="32" width="58" height="86" rx="8" fill="#E5006E" />
+      <rect x="82" y="54" width="62" height="64" rx="8" fill="#FCE7F3" />
+      <rect x="199" y="41" width="62" height="77" rx="8" fill="#FBCFE8" />
+      <rect x="316" y="32" width="62" height="86" rx="8" fill="#E5006E" />
+      <text x="113" y="48" class="muted-value" text-anchor="middle">5,652億</text>
+      <text x="230" y="35" class="muted-value" text-anchor="middle">6,857億</text>
+      <text x="347" y="26" class="accent-value" text-anchor="middle">7,605億</text>
+      <text x="113" y="137" class="axis" text-anchor="middle">2022</text>
+      <text x="230" y="137" class="axis" text-anchor="middle">2023</text>
+      <text x="347" y="137" class="axis" text-anchor="middle">2024</text>
     </svg>
 
     <svg v-else-if="variant === 'creator'" viewBox="0 0 460 150" role="img">
@@ -24,26 +30,6 @@ defineProps<{
       <rect x="238" y="55" width="46" height="63" rx="7" fill="#697B95" />
       <rect x="318" y="35" width="46" height="83" rx="7" fill="#0B1F3A" />
     </svg>
-
-    <svg v-else viewBox="0 0 460 150" role="img">
-      <rect width="460" height="150" fill="#102B4A" />
-      <text x="24" y="30" class="light-title">公演市場</text>
-      <text x="322" y="30" class="light-note">回復から拡大へ</text>
-      <line x1="46" y1="118" x2="420" y2="118" stroke="rgba(255,255,255,0.18)" stroke-width="1.5" />
-      <polyline
-        points="62,88 138,112 214,90 294,62 398,42"
-        fill="none"
-        stroke="#FFD2E4"
-        stroke-width="3"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      />
-      <circle cx="138" cy="112" r="5" fill="#ffffff" opacity="0.75" />
-      <circle cx="398" cy="42" r="6.5" fill="#E5006E" />
-      <text x="62" y="137" class="light-axis" text-anchor="middle">2019</text>
-      <text x="138" y="137" class="light-axis" text-anchor="middle">2020</text>
-      <text x="398" y="137" class="light-axis" text-anchor="middle">2024</text>
-    </svg>
   </div>
 </template>
 
@@ -53,7 +39,7 @@ defineProps<{
   overflow: hidden;
 }
 
-.oshi {
+.entertainment {
   background: #ffffff;
   border: 1px solid #fbcfe8;
 }
@@ -61,11 +47,6 @@ defineProps<{
 .creator {
   background: #ffffff;
   border: 1px solid #e5e7eb;
-}
-
-.performance {
-  background: #102b4a;
-  border: 1px solid rgba(255, 255, 255, 0.14);
 }
 
 svg {
@@ -78,22 +59,15 @@ text {
   font-family: "Inter", "Noto Sans JP", sans-serif;
 }
 
-.dark-title,
-.light-title {
+.dark-title {
   font-size: 14px;
   font-weight: 900;
 }
 
-.dark-title,
-.small-note {
+.dark-title {
   fill: #0b1f3a;
 }
 
-.light-title {
-  fill: #ffffff;
-}
-
-.accent-title,
 .accent-value {
   fill: #e5006e;
   font-size: 14px;
@@ -112,23 +86,6 @@ text {
 
 .axis {
   fill: #6b7280;
-  font-size: 12px;
-  font-weight: 700;
-}
-
-.small-note {
-  font-size: 12px;
-  font-weight: 800;
-}
-
-.light-note {
-  fill: #ffd2e4;
-  font-size: 12px;
-  font-weight: 800;
-}
-
-.light-axis {
-  fill: #d1d5db;
   font-size: 12px;
   font-weight: 700;
 }

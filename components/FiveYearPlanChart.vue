@@ -3,9 +3,7 @@
     <svg viewBox="0 0 1080 420" role="img">
       <rect width="1080" height="420" fill="#ffffff" />
       <text x="40" y="42" class="title">売上・営業利益の推移</text>
-      <text x="40" y="68" class="sub">
-        単位：百万円。4年目で黒字化、5年目に営業利益 123.8M へ。
-      </text>
+      <text x="40" y="68" class="sub">単位：百万円。4年目で黒字化、5年目に営業利益 61.2M へ。</text>
 
       <circle cx="730" cy="34" r="7" fill="#E5006E" />
       <text x="746" y="39" class="legend">売上</text>
@@ -50,7 +48,7 @@
         stroke-linejoin="round"
       />
       <polyline
-        points="150,302.2 360,297.3 570,282.6 780,239.4 990,166.4"
+        points="150,303.0 360,301.8 570,293.4 780,268.8 990,223.9"
         fill="none"
         stroke="#0B1F3A"
         stroke-width="3"
@@ -66,11 +64,11 @@
         <circle cx="990" cy="88.4" r="5.5" />
       </g>
       <g fill="#ffffff" stroke="#0B1F3A" stroke-width="2.75">
-        <circle cx="150" cy="302.2" r="5.5" />
-        <circle cx="360" cy="297.3" r="5.5" />
-        <circle cx="570" cy="282.6" r="5.5" />
-        <circle cx="780" cy="239.4" r="5.5" />
-        <circle cx="990" cy="166.4" r="5.5" />
+        <circle cx="150" cy="303.0" r="5.5" />
+        <circle cx="360" cy="301.8" r="5.5" />
+        <circle cx="570" cy="293.4" r="5.5" />
+        <circle cx="780" cy="268.8" r="5.5" />
+        <circle cx="990" cy="223.9" r="5.5" />
       </g>
 
       <g class="x-axis" text-anchor="middle">
@@ -82,8 +80,8 @@
       </g>
 
       <text x="990" y="72" class="sales-label" text-anchor="middle">208.7M</text>
-      <text x="990" y="152" class="profit-label" text-anchor="middle">123.8M</text>
-      <text x="150" y="323" class="negative-label" text-anchor="middle">-24.1M</text>
+      <text x="990" y="210" class="profit-label" text-anchor="middle">61.2M</text>
+      <text x="150" y="323" class="negative-label" text-anchor="middle">-24.9M</text>
     </svg>
   </div>
 </template>

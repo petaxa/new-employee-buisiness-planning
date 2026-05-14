@@ -39,7 +39,7 @@ transition: slide-left
         </tr>
         <tr style="border-bottom:1px solid #E5E7EB;">
           <td style="padding:28px 28px; font-weight:900; color:#E5006E; background:#FDF2F8;">サービス</td>
-          <td style="padding:28px 32px; background:#ffffff; border-left:1px solid #E5E7EB; font-weight:800;">チケット販売・購入導線</td>
+          <td style="padding:28px 32px; background:#ffffff; border-left:1px solid #E5E7EB; font-weight:800;">チケット販売プラットフォーム</td>
           <td style="padding:28px 32px; background:#F8FAFC; border-left:1px solid #E5E7EB;">情報サイト + 一部チケット販売</td>
         </tr>
         <tr>

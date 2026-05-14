@@ -42,8 +42,8 @@ transition: slide-left
   </div>
 
   <div data-object="true" data-object-type="textbox" style="position:absolute; left:1280px; top:640px; width:480px; z-index:10;">
-    <div style="font-size:18px; font-weight:500; color:#D1D5DB;">累計損益</div>
-    <div style="font-family:'Inter',sans-serif; font-size:48px; font-weight:900; color:#E5006E; line-height:1.1; margin-top:4px;">1.22<span style="font-size:22px;">億円</span></div>
+    <div style="font-size:18px; font-weight:500; color:#D1D5DB;">営業利益</div>
+    <div style="font-family:'Inter',sans-serif; font-size:48px; font-weight:900; color:#ffffff; line-height:1.1; margin-top:4px;">6100<span style="font-size:22px;">万円</span></div>
   </div>
 
   <!-- 詳細テーブル -->
@@ -94,11 +94,11 @@ transition: slide-left
         </tr>
         <tr style="border-bottom:1px solid #F3F4F6;">
           <td style="padding:6px 14px; font-family:'Noto Sans JP'; font-weight:700;">売上原価</td>
-          <td style="text-align:right; padding:6px 14px;">4.2M</td>
-          <td style="text-align:right; padding:6px 14px;">4.2M</td>
-          <td style="text-align:right; padding:6px 14px;">4.3M</td>
-          <td style="text-align:right; padding:6px 14px;">4.6M</td>
-          <td style="text-align:right; padding:6px 14px;">6.4M</td>
+          <td style="text-align:right; padding:6px 14px;">5.0M</td>
+          <td style="text-align:right; padding:6px 14px;">9.1M</td>
+          <td style="text-align:right; padding:6px 14px;">16.1M</td>
+          <td style="text-align:right; padding:6px 14px;">36.5M</td>
+          <td style="text-align:right; padding:6px 14px;">69.0M</td>
         </tr>
         <tr style="border-bottom:1px solid #F3F4F6;">
           <td style="padding:6px 14px; font-family:'Noto Sans JP'; font-weight:700;">販管費</td>
@@ -110,19 +110,19 @@ transition: slide-left
         </tr>
         <tr style="border-bottom:1px solid #F3F4F6; background:#FDF2F8;">
           <td style="padding:6px 14px; font-family:'Noto Sans JP'; font-weight:900; color:#0B1F3A;">営業利益</td>
-          <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−24.1M</td>
-          <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−18.8M</td>
-          <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−2.7M</td>
-          <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+44.2M</td>
-          <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+123.8M</td>
+          <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−24.9M</td>
+          <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−23.6M</td>
+          <td style="text-align:right; padding:6px 14px; font-weight:700; color:#6B7280;">−14.5M</td>
+          <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+12.3M</td>
+          <td style="text-align:right; padding:6px 14px; font-weight:900; color:#E5006E;">+61.2M</td>
         </tr>
         <tr style="background:#0B1F3A;">
           <td style="padding:7px 14px; font-family:'Noto Sans JP'; font-weight:900; color:#ffffff;">累計損益</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−24.1M</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−42.9M</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−45.6M</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−1.4M</td>
-          <td style="text-align:right; padding:7px 14px; font-weight:900; color:#FFD2E4;">+122.4M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−24.9M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−48.5M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−63.0M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:700; color:#D1D5DB;">−50.7M</td>
+          <td style="text-align:right; padding:7px 14px; font-weight:900; color:#FFD2E4;">+10.4M</td>
         </tr>
       </tbody>
     </table>

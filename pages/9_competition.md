@@ -26,12 +26,10 @@ transition: slide-left
     <table style="width:1680px; border-collapse:collapse; font-size:17px; color:#0B1F3A;">
       <tbody>
         <tr style="border-bottom:1px solid #E5E7EB; background:#0B1F3A; color:#ffffff;">
-          <td style="padding:18px 22px; font-weight:900; width:280px;">種別</td>
+          <td style="padding:18px 22px; font-size:22px; font-weight:900; width:280px;">種別</td>
           <td rowspan="2" style="padding:18px 16px; text-align:center; font-family:'Inter',sans-serif; font-size:30px; font-weight:900; color:#ffffff; background:#E5006E; width:240px;">knoq</td>
-          <td style="padding:18px 16px; text-align:center; color:#ffffff; font-size:14px; font-weight:700; line-height:1.5;">電子チケット販売プラットフォーム</td>
-          <td style="padding:18px 16px; text-align:center; color:#ffffff; font-size:14px; font-weight:700; line-height:1.5;">電子チケット販売プラットフォーム</td>
-          <td style="padding:18px 16px; text-align:center; color:#ffffff; font-size:14px; font-weight:700; line-height:1.5;">電子チケット販売プラットフォーム</td>
-          <td style="padding:18px 16px; text-align:center; color:#ffffff; font-size:14px; font-weight:700; line-height:1.5;">インディーズ音楽情報ポータル＋チケット販売動線</td>
+          <td colspan="3" style="padding:18px 16px; text-align:center; color:#ffffff; font-size:17px; font-weight:900; line-height:1.45;">電子チケット販売プラットフォーム</td>
+          <td style="padding:18px 16px; text-align:center; color:#ffffff; font-size:17px; font-weight:900; line-height:1.45;">インディーズ音楽情報ポータル＋チケット販売動線</td>
         </tr>
         <tr style="border-bottom:1px solid #E5E7EB;">
           <td style="padding:18px 22px; font-weight:700;">サービス名</td>
