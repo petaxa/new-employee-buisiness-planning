@@ -87,3 +87,15 @@ src: ./pages/ap_cost_structure.md
 ---
 src: ./pages/ap_advertising.md
 ---
+
+---
+src: ./pages/ap_survey_behavior.md
+---
+
+---
+src: ./pages/ap_survey_norma.md
+---
+
+---
+src: ./pages/ap_survey_selling.md
+---
